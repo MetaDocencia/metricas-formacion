@@ -1,0 +1,12 @@
+cff-version: 0.1.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: Jesica 
+  given-names: Formoso
+orcid: https://orcid.org/0000-0003-3062-4036
+- family-names: Laura 
+  given-names: Ación
+orcid: https://orcid.org/0000-0001-5213-6012
+title:MetaDocencia/metricas-formacion: MetaDocencia's workshops in numbers
+version: v0.1.0
+date-released: 2025-07-14
