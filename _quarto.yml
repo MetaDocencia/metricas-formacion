@@ -1,0 +1,16 @@
+project:
+  title: "MetaDocencia's workshops in numbers"
+  render:
+    - report.qmd
+
+
+
+format:
+  gfm: 
+    output-file: README.md
+    toc: true
+    theme: style.scss
+
+execute: 
+  echo: false
+  warning: false
