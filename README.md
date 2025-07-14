@@ -90,3 +90,7 @@ with higher engagement and learning outcomes per edition. This evolution
 reflects MetaDocencia’s maturing role as a community of practice,
 capable of delivering meaningful, sustainable, and regionally grounded
 educational experiences.
+
+If you wish to use this repository, please reference as follows: 
+Formoso, J., & Acion, L. (2025). MetaDocencia/metricas-formacion: MetaDocencia's workshops in numbers (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.15882571
+
